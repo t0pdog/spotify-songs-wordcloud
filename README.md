@@ -15,3 +15,5 @@ The results of my analysis were truly interesting (but expectable) as they revea
 
 --- 
 If you want to explore the discography of your favorite artists in a new way, you can use this code with a detailed description of the process.
+
+![Example picture](wordcloud-small.jpg "Example picture")
